@@ -56,8 +56,11 @@
 
 <p align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hkndenis10@gmail.com)
-
+<p align="center">
+  <a href="mailto:hkndenis10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20Mail-hkndenis10@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 ---
 
 <p align="center">
