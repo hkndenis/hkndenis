@@ -52,19 +52,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hkndenis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hkndenis" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkndenis&show_icons=true&locale=en&theme=tokyonight" alt="hkndenis" />
-</div>
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
   
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hkndenis10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
