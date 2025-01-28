@@ -10,9 +10,8 @@
 </p>
 
 <div align="center">
-  
-  🔭 I'm currently working on **Instagram Clone App**
-  
+
+   
   🌱 I'm constantly learning and improving
   
   👨‍💻 All of my projects are available [here](https://github.com/hkndenis?tab=repositories)
